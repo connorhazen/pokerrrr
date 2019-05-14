@@ -26,9 +26,9 @@
     web.conf 是游戏服汇报数据给web的配置
     [url]
     ;分配服url
-    alloc = http://alloc.poker.xnny.com
+    alloc = http://yyy.com
     ;战绩服url
-    record = http://poker.xnny.com
+    record = http://xxx.com
     如果是IP地址必须加上端口
     
 # 部署步骤
